@@ -1,0 +1,2 @@
+# Olzhas
+First GIT project
